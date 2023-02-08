@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dsdp"]
+	path = dsdp
+	url = https://github.com/tsuchiya-lab/dsdp
+	shallow = true
+	registered = true
